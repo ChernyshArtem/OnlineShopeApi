@@ -3,91 +3,91 @@
         {
             "id"      : 0,
             "name"    : "iPhone 2G",
-            "price"   : 20
+            "price"   : 20,
             "imageURL": "https://p.turbosquid.com/ts-thumb/cs/xspCOJ/OFiSOLfW/1/jpg/1532946154/600x600/fit_q87/ddcfb4dd7e78bec8c364d40c8e0f3cf7cb62fc06/1.jpg"
         },
         {
             "id"      : 1,
             "name"    : "iPhone 3G",
-            "price"   : 50
+            "price"   : 50,
             "imageURL": "https://app-minsk.by/files/images/iphone-iphone3g-colors.jpg"
         },
         {
             "id"      : 2,
             "name"    : "iPhone 4",
-            "price"   : 75
+            "price"   : 75,
             "imageURL": "https://drop.ndtv.com/TECH/product_database/images/530201374038PM_635_iPhone_4.png?downsize=*:180"
         },
         {
             "id"      : 3,
             "name"    : "iPhone 5",
-            "price"   : 100
+            "price"   : 100,
             "imageURL": "https://images.deal.by/289947626_w600_h600_289947626.jpg"
         },
         {
             "id"      : 4,
             "name"    : "iPhone 6",
-            "price"   : 125
+            "price"   : 125,
             "imageURL": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP705/SP705-iphone_6-mul.png"
         },
         {
             "id"      : 5,
             "name"    : "iPhone SE (1st gen)",
-            "price"   : 140
+            "price"   : 140,
             "imageURL": "https://i5.walmartimages.com/asr/f680d1e9-d127-48b1-9ad9-d1487aee361d.86c2dbd2713cfb3b3015b3d439607143.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
         },
         {
             "id"      : 6,
             "name"    : "iPhone 7",
-            "price"   : 150
+            "price"   : 150,
             "imageURL": "https://cdn1.it4profit.com/brd2/q:68/g:sm/plain/s3://app/public/models/MN972/large/w/190823140012229467.webp"
         },
         {
             "id"      : 7,
             "name"    : "iPhone 8",
-            "price"   : 200
+            "price"   : 200,
             "imageURL": "https://cdn1.it4profit.com/brd2/q:68/g:sm/plain/s3://app/public/models/MQ6G2RM-A/large/w/190614070020624591.webp"
         },
         {
             "id"      : 8,
             "name"    : "iPhone X",
-            "price"   : 250
+            "price"   : 250,
             "imageURL": "https://cdn1.it4profit.com/brd2/q:68/g:sm/plain/s3://app/public/models/MQAG2/large/w/180413170205345780.webp"
         },
         {
             "id"      : 9,
             "name"    : "iPhone 11",
-            "price"   : 300
+            "price"   : 300,
             "imageURL": "https://di-smart.by/wp-content/webp-express/webp-images/uploads/2020/10/blc.png.webp"
         },
         {
             "id"      : 10,
             "name"    : "iPhone SE (2nd gen)",
-            "price"   : 260
+            "price"   : 260,
             "imageURL": "https://buy.gazelle.com/cdn/shop/products/500x500iphone_se2_9a29c677-9d41-4e99-aaad-7f3bff149264_497x.jpg?v=1594665110"
         },
         {
             "id"      : 11,
             "name"    : "iPhone 12",
-            "price"   : 450
+            "price"   : 450,
             "imageURL": "https://cdn1.it4profit.com/brd2/q:68/g:sm/plain/s3://app/public/models/MGJC3/large/w/201230150033445997.webp"
         },
         {
             "id"      : 12,
             "name"    : "iPhone 13",
-            "price"   : 600
+            "price"   : 600,
             "imageURL": "https://mobillife.by/images/virtuemart/product/30059037b.jpg"
         },
         {
             "id"      : 13,
             "name"    : "iPhone 14",
-            "price"   : 1000
+            "price"   : 1000,
             "imageURL": "https://di-smart.by/wp-content/uploads/2022/09/apple-iphone-14-pro-max-deep-purple.png"
         },
         {
             "id"      : 14,
             "name"    : "iPhone 15",
-            "price"   : 1500
+            "price"   : 1500,
             "imageURL": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-230912_inline.jpg.large.jpg"
         }
     ]
